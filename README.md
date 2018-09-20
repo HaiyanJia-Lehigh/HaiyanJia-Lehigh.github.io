@@ -1,6 +1,10 @@
 # HaiyanJia-Lehigh.github.io
 
-I am Haiyan Jia, an assitant professor in the Department of Journalism and Communication at Lehigh Unversity.
+I am Haiyan Jia, an assitant professor in the Department of Journalism and Communication at Lehigh Unversity. 
+
+I research about the social and psychological effects of communication technology, e.g., the Internet, social media, mobile devices, robots, etc. I teach courses on Data Journalism, Data Visualization, Data Storytelling, Media and Society, Communication Technology, and Health Communication. 
+
+Please visit my [departmental webpage](https://journalism.cas2.lehigh.edu/content/haiyan-jia) to learn more about my work and teaching.
 
 ## Lehigh Enrollment 2017
 
