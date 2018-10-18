@@ -22,6 +22,8 @@ This column chart is created also using Datawrapper. It shows very visually the 
 <iframe id="datawrapper-chart-YXETC" src="//datawrapper.dwcdn.net/YXETC/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="275"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["YXETC"]={},window.datawrapper["YXETC"].embedDeltas={"100":550,"200":387,"300":309,"400":292,"500":275,"700":258,"800":258,"900":258,"1000":258},window.datawrapper["YXETC"].iframe=document.getElementById("datawrapper-chart-YXETC"),window.datawrapper["YXETC"].iframe.style.height=window.datawrapper["YXETC"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["YXETC"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("YXETC"==b)window.datawrapper["YXETC"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 
-Google Tour Creator
+## Google Tour Creator
+
+The following sample 360 immersive tour is created using Google Tour creator with the embedded Google Streetview imagery by my student Lindsey Taub.
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/6rEKb4cchwY/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
