@@ -6,6 +6,8 @@ I research about the social and psychological effects of communication technolog
 
 I use this site mainly for my teaching of the data journalism and data storytelling courses.
 
+![chart](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/chart.png?raw=true)
+
 ## Lehigh Enrollment 2017
 
 This pie chart is created using Datawrapper as a course project of COMM 198 Data Storytelling. It shows the undergraduate enrollment in the different colleges and programs at Lehigh University in 2017. The chart shows that the College of Arts and Sciences has the largest enrollment, followed by College of Engineering and College of Business. You can also explore the other tabs of the visualization to see the gender breakdown.
