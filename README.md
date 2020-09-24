@@ -17,7 +17,7 @@ This pie chart is created using Datawrapper as a course project of COMM 198 Data
 
 
 
-
+## A column chart
 
 This column chart is created also using Datawrapper. It shows very visually the size of enrollment in each of the different colleges and programs at Lehigh University in 2017 in a descending order. 
 
