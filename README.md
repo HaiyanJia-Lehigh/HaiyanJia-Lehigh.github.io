@@ -73,5 +73,5 @@ Embed code.
 <iframe title="Lehigh Enrollment Fall 2020" aria-label="chart" id="datawrapper-chart-2HEej" src="https://datawrapper.dwcdn.net/2HEej/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="527"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-# Test picture 2
-<img src=“https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true” width = 20% height = 20%/>
+# Test picture 3
+<img src=“https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true” width="20%" height="20%" />
