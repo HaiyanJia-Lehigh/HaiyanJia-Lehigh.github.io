@@ -74,4 +74,4 @@ Embed code.
 </script>
 
 # Test picture
-<img src = “https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true” width = 20% height = 20%>
+<img src=“https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true” width = 20% height = 20%/>
