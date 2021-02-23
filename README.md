@@ -74,4 +74,4 @@ Embed code.
 </script>
 
 # Test picture md
-![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =200x)
+![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =50x)
