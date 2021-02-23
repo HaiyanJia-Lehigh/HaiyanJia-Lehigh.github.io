@@ -75,3 +75,5 @@ Embed code.
  
 # Test picture md resize 2
 ![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =30x100)
+
+<img src=https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true width="50" height="100">
