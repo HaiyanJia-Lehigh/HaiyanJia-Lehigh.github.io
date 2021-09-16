@@ -1,5 +1,7 @@
 # HaiyanJia-Lehigh.github.io
 
+![Lehigh image](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Lehigh.jpg?raw=true)
+
 ![HealthCommImg](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Health%20comm%202.png?raw=true)
 
 I am Haiyan Jia, an assitant professor in the Department of Journalism and Communication at Lehigh Unversity. 
