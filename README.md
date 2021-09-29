@@ -4,6 +4,8 @@
 
 ![HealthCommImg](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Health%20comm%202.png?raw=true)
 
+![How does the COVID-19 impact adults' mental health](https://www.canva.com/design/DAErP_vRzjo/Plfn_sL6eLzL58jB336oZg/view?utm_content=DAErP_vRzjo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 I am Haiyan Jia, an assitant professor in the Department of Journalism and Communication at Lehigh Unversity. 
 
 I research about the social and psychological effects of communication technology, e.g., the Internet, social media, mobile devices, robots, etc. I teach courses on Data Journalism, Data Visualization, Data Storytelling, Media and Society, Communication Technology, and Health Communication. Please visit my [departmental webpage](https://journalism.cas2.lehigh.edu/content/haiyan-jia) to learn more about my work and teaching.
