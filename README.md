@@ -1,5 +1,10 @@
 # HaiyanJia-Lehigh.github.io
 
+### Countries ranked by GDP
+
+This is a bar chart created using Chartbuilder showing the world's richese countries. Original data can be access [here](https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit?usp=sharing).
+![GDP](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/The_World's_Riches_Countries_GPD_chartbuilder.png?raw=true)
+
 ![Lehigh image](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Lehigh.jpg?raw=true)
 
 ![HealthCommImg](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Health%20comm%202.png?raw=true)
