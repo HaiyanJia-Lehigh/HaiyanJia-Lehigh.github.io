@@ -27,6 +27,10 @@ This pie chart is created using Datawrapper as a course project of COMM 198 Data
 <iframe id="datawrapper-chart-YXETC" src="//datawrapper.dwcdn.net/YXETC/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["YXETC"]={},window.datawrapper["YXETC"].embedDeltas={"100":658,"200":495,"300":434,"400":417,"500":400,"700":383,"800":383,"900":383,"1000":383},window.datawrapper["YXETC"].iframe=document.getElementById("datawrapper-chart-YXETC"),window.datawrapper["YXETC"].iframe.style.height=window.datawrapper["YXETC"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["YXETC"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("YXETC"==b)window.datawrapper["YXETC"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 </aside>
 
+## Infographic testing
+
+<img src="https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Spotify%20weekly%20tracks.png" width="600" height="800" />
+
 
 ## A column chart
 
