@@ -1,5 +1,10 @@
 # HaiyanJia-Lehigh.github.io
 
+### Test
+
+![title](https://github.com/BrendanRego/BrendanRego.github.io/blob/main/AvgTemp.png?raw=true)
+
+
 ### Tableau testing 2
 
 Here is another test.
