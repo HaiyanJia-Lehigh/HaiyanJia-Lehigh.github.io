@@ -1,5 +1,8 @@
 # HaiyanJia-Lehigh.github.io
 
+
+![LU](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/LU.jpg?raw=true)
+
 ### Test
 
 ![title](https://github.com/BrendanRego/BrendanRego.github.io/blob/main/AvgTemp.png?raw=true)
