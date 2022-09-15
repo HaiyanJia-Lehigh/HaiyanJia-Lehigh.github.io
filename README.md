@@ -1,5 +1,7 @@
 # HaiyanJia-Lehigh.github.io
 
+Hi! I am a faculty member at [Lehigh University](https://www1.lehigh.edu/).
+
 
 ![LU](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/LU.jpg?raw=true)
 
