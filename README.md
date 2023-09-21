@@ -2,6 +2,7 @@
 
 Hi! I am a faculty member at [Lehigh University](https://www1.lehigh.edu/).
 
+![profilepictur](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Haiyan-4121.jpg?raw=true)
 
 ![LU](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/LU.jpg?raw=true)
 
