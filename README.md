@@ -53,7 +53,7 @@ This pie chart is created using Datawrapper as a course project of COMM 198 Data
 
 ## Infographic testing 2
 
-<img src="https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Spotify%20weekly%20tracks.png" width="600" height="800">
+<img src="https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Spotify%20weekly%20tracks.png?raw=true" width="600" height="800">
 
 
 ## A column chart
