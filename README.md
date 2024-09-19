@@ -6,6 +6,8 @@ Hi! I am a faculty member of the Department of Journalism at [Lehigh University]
 
 ![profilepictur](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Haiyan-4121.jpg?raw=true)
 
+![LindermanLibrary](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/1.jpg?raw=true)
+
 ![LehighNewBuilding](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/VMA%20Lehigh.jpg?raw=true)
 
 ![LU](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/LU.jpg?raw=true)
