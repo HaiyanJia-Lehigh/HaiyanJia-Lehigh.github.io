@@ -6,6 +6,7 @@ Hi there! I am a faculty member of the Department of Journalism at [Lehigh Unive
 
 ![profilepictur](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Haiyan-4121.jpg?raw=true)
 
+![lindermanlibrary](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/LindermanLibrary.jpg?raw=true)
 
 ![bird migration](https://github.com/HaiyanJia-Lehigh/HaiyanJia-Lehigh.github.io/blob/master/Bird%20migration.jpg?raw=true)
 
